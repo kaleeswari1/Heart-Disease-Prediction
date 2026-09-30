@@ -176,11 +176,11 @@ http://127.0.0.1:5000
 
 ### Heart Disease Prediction
 
-![Heart Disease Detected](screenshots/prediction_positive.png)
+![Heart Disease Detected](screenshots/Positive_result.png)
 
 ### No Heart Disease Prediction
 
-![No Heart Disease Detected](screenshots/prediction_negative.png)
+![No Heart Disease Detected](screenshots/Negative_result.png)
 
 ---
 
