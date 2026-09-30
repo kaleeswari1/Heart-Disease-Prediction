@@ -216,6 +216,14 @@ Through this project, I gained practical experience in:
 * Integrating a machine learning model into a web application
 
 ---
+## 🌐 Live Demo
+
+🚀 **[Open Heart Disease Prediction App](https://heart-disease-prediction-vowb.onrender.com)**
+
+The application is deployed using Render and provides an interactive interface for entering the required clinical parameters and obtaining a Random Forest-based prediction.
+
+> **Note:** This project is developed for educational purposes and is not intended for medical diagnosis.
+
 
 ## ⚠️ Disclaimer
 
