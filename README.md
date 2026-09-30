@@ -172,7 +172,7 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-![Heart Disease Prediction Home Page](screenshots/homepage.png)
+![Heart Disease Prediction Home Page](screenshots/Homepage.png)
 
 ### Heart Disease Prediction
 
